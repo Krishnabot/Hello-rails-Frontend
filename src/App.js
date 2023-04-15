@@ -5,7 +5,7 @@ import Greeting from './feature/Greetings/Greeting';
 export default function App() {
   return (
     <Routes>
-      <Route path='/' element={<Greeting />} />
+      <Route path="/" element={<Greeting />} />
     </Routes>
   );
 }

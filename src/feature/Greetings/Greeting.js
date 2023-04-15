@@ -1,5 +1,6 @@
 import { React, useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
+import styled from 'styled-components';
 import { greet } from './greetings';
 
 const Greeting = () => {
@@ -11,10 +12,16 @@ const Greeting = () => {
   }, [dispatch]);
 
   return (
-    <div className='greeting'>
+    <Section className="greeting">
       <h1>{greeting}</h1>
-    </div>
+    </Section>
   );
 };
 
 export default Greeting;
+
+const Section = styled.section`
+  padding: 2rem 0;
+  text-align: center;
+  font-size: 5rem;
+`;

@@ -1,7 +1,7 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const GET = './redux/greeting/GET';
+const GET = '.greeting/GET';
 
 const greetingsReducer = (state = '', action) => {
   switch (action.type) {
