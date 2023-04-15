@@ -1,13 +1,32 @@
+<a name="readme-top"></a>
 
-# 📖 Hello-rails-Frontend
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+
+# 📖 Hello-rails-Frontend <a name="about-project"></a>
 
 **Hello-rails-Frontend** is the frontend part of a full-stack application built with rails as an api  &react for the front end
-
 Follow this [hello_rails-back-end-api](https://github.com/Krishnabot/hello_rails-back-end-api) for the backend api repo
 
-## 🛠 Built With
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack
+### Tech Stack <a name="tech-stack"></a>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 <br/>
@@ -20,8 +39,19 @@ Follow this [hello_rails-back-end-api](https://github.com/Krishnabot/hello_rails
 - This is a Front-End part of the  FullStack Application that consists of two separate repositories.
 - React and Rails are used in these repositories to develop the frontend and backend parts of the application respectively.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link : Not Available](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
@@ -53,6 +83,7 @@ Example command:
   npm install
 ```
 
+
 ### Usage
 
 To start the server use the following command:
@@ -62,7 +93,11 @@ To start the server use the following command:
 ```
 
 
-## 👥 Author
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
 
 👤 **Krishna Prasad Acharya**
 
@@ -70,6 +105,7 @@ To start the server use the following command:
 - Twitter: [@last_matrix](https://twitter.com/last_matrix)
 - LinkedIn: [@Krishnabot](https://www.linkedin.com/in/krishnabot/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -78,15 +114,29 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Krishnabot/Hello-rails-Frontend/issues).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse for overseeing the project.
 - Thanks to my learning partners mentor and peer  for their help and support
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
