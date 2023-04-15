@@ -1,70 +1,92 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📖 Hello-rails-Frontend
 
-## Available Scripts
+**Hello-rails-Frontend** is the frontend part of a full-stack application built with rails as an api  &react for the front end
 
-In the project directory, you can run:
+Follow this [hello_rails-back-end-api](https://github.com/Krishnabot/hello_rails-back-end-api) for the backend api repo
 
-### `npm start`
+## 🛠 Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+<br/>
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+<br/>
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### `npm test`
+### Key Features <a name="key-features"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- This is a Front-End part of the  FullStack Application that consists of two separate repositories.
+- React and Rails are used in these repositories to develop the frontend and backend parts of the application respectively.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get a local copy up and running, follow these steps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+In order to run this project you need:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Node.js installed in your computer. ([install guide](https://nodejs.org/en))
+- Code editor preferably [Vscode](https://code.visualstudio.com/).
+- npmjs installed to use ```npm```
+- Complete instructions to configure Back end  [Rails Back-End README file](https://github.com/Krishnabot/hello_rails-back-end-api/blob/feature/greeting_api/README.md)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Clone this repo with git. Run the following command in your terminal:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+  git clone https://github.com/Krishnabot/Hello-rails-Frontend.git
+```
 
-## Learn More
+### Install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install this project with:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Example command:
 
-### Code Splitting
+```sh
+  cd Hello-rails-Frontend
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Usage
 
-### Analyzing the Bundle Size
+To start the server use the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```sh
+  npm start
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 👥 Author
 
-### Advanced Configuration
+👤 **Krishna Prasad Acharya**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- GitHub: [@krishnabot](https://github.com/Krishnabot)
+- Twitter: [@last_matrix](https://twitter.com/last_matrix)
+- LinkedIn: [@Krishnabot](https://www.linkedin.com/in/krishnabot/)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Krishnabot/Hello-rails-Frontend/issues).
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Microverse for overseeing the project.
+- Thanks to my learning partners mentor and peer  for their help and support
+
+
+This project is [MIT](./LICENSE) licensed.
+
